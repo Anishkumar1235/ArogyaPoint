@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* General style to apply Montserrat font */
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f1f3f6; /* Light grey color */
+}
